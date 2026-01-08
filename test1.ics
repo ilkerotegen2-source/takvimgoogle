@@ -1,17 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Ajanda2026//TR
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Ajanda 2026
 BEGIN:VEVENT
 UID:20260101-izmir-fuar
-DTSTAMP:20250101T000000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:📜 Kültürpark ve İzmir Fuarı Temel Atma
-DESCRIPTION:İzmir İktisat Kongresi sırasında açılan yerli malları sergisi ve 9 Eylül Panayırları fuarın öncüsü olmuştur. Dr. Behçet Uz’un çalışmalarıyla "yangın yeri" olarak bilinen alanda Kültürpark ve Fuar’ın temeli 1 Ocak 1936'da atılmıştır.\n\nAjanda’da görmek için: https://i.imgur.com/NoZhrgw.jpeg
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>İzmir İktisat Kongresi sırasında açılan yerli malları sergisi ve 9 Eylül Panayırları fuarın öncüsü olmuştur. Dr. Behçet Uz’un çalışmalarıyla "yangın yeri" olarak bilinen alanda Kültürpark ve Fuar’ın temeli 1 Ocak 1936'da atılmıştır.<br><br>Ajanda’da görmek için: <a href="https://i.imgur.com/NoZhrgw.jpeg">Link</a></body></html>
-TRANSP:TRANSPARENT
+DESCRIPTION:Ajanda’da görmek için: Link (https://i.imgur.com/NoZhrgw.jpeg)
+X-ALT-DESC;FMTTYPE=text/html:Ajanda’da görmek için: <a href="https://i.imgur.com/NoZhrgw.jpeg">Link</a>
 END:VEVENT
 END:VCALENDAR
